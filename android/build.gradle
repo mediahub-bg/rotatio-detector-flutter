@@ -25,6 +25,8 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namespace "com.rotation.detector.rotation_detector"
+
     compileSdkVersion 30
 
     compileOptions {
