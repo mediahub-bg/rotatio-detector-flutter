@@ -1,6 +1,6 @@
 name: rotation_detector
 description: A plugin that checks if rotation is currently enabled on Android
-version: 0.0.1
+version: 0.0.2
 homepage:
 
 environment:
